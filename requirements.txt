@@ -1,0 +1,4 @@
+Flask
+numpay
+pandas
+scikit-learn
